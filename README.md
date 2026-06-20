@@ -12,7 +12,10 @@ Soc rk3588 arm64
 ## env set up
 
 mv Fast-DDS ~
+
 echo 'source ~/Fast-DDS/install/setup.bash' >> ~/.bashrc
+
 echo 'export PATH=$PATH:~/Fast-DDS/src/fastddsgen/scripts' >> ~/.bashrc
+
 source ~/.bashrc
 
