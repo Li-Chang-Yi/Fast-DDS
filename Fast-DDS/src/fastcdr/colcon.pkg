@@ -1,0 +1,5 @@
+name: fastcdr
+type: cmake
+test-dependencies:
+    # Needed for test compilation in eProsima CI
+    - googletest-distribution

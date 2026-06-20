@@ -1,0 +1,4 @@
+*.user
+workspace_DDSHelloWorld/build/*
+qt_fast_dds/bin_debug
+build*
