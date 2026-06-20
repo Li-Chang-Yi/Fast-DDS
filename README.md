@@ -1,6 +1,6 @@
 ## Directory describe
 
-- Fast-DDS: base DDS library
+- Fast-DDS(Version : 3.6.1): base DDS library 
 - tools: compatible asio lib and cmake tool to compile Fast-DDS on ubuntu20.04 successful
 - workspace_DDSHelloWorld: the simplest example creat a publisher and subscriber
 - qt_fast_dds: DDSPublisher and DDSSubscriber using Qt
