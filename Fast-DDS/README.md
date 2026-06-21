@@ -1,5 +1,5 @@
 ## Fast-DDS(eProsima product and ROS2 default DDS implement)
-#### office link
+#### offical link
 
 https://fast-dds.docs.eprosima.com/en/latest/installation/sources/sources_linux.html#colcon-installation
 
